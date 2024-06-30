@@ -1,0 +1,44 @@
+.cont1 {
+  display: flex;
+  margin-bottom: 60px;
+  margin-top: 60px;
+}
+.subcont1 img {
+  height: 350px;
+  height: 350px;
+  border-radius: 40px;
+}
+.subcont1 {
+  margin: 35px;
+}
+.subcont2 {
+  margin-left: 20px;
+  font-size: 20px;
+  margin: 35px;
+}
+.cont2 {
+  display: flex;
+}
+.subcont3 {
+  margin: 35px;
+  font-size: 20px;
+}
+.subcont4 img {
+  height: 350px;
+  width: 350px;
+  border-radius: 40px;
+}
+.subcont4 {
+  margin: 35px;
+}
+.subcont1 img:hover {
+  width: 400px;
+  height: 400px;
+}
+.subcont4 img:hover {
+  width: 400px;
+  height: 400px;
+}
+li a {
+  font-size: 40px;
+}
